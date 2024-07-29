@@ -1,7 +1,7 @@
 
 <!----------------------- MAIN -------------------------->
 <p align="center" width="20">
-  <img src="readme-images/profile.jpg" alt="Profile picture" style="width:150px; border-radius:100px;"/>
+
 </p>
 
 <p align="center">
