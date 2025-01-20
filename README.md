@@ -7,7 +7,7 @@
 <p align="center">
     <b>Chamith Kalyan</b>
     <br>
-    Tech artisan | I craft tech.
+    Full Stack Developer |Tech artisan | I craft tech.
 </p>
 
 
