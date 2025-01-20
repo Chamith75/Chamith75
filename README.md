@@ -42,6 +42,8 @@ Contact - <a href=mailto:chamithkalyan@gmail.com<>chamithkalyan@gmail.com</a><br
 <hr>
 <br>
 
+<h3 align="left">🛠 Language and tools</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
