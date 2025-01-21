@@ -33,11 +33,13 @@
 </p>
 
 <p style="width=100%; font-family:titillium web" align="center">
-Hello, I’m @Chamith75 (Github didn't allow me to put it as <b>"Chamith Kalyan"</b>)<br>
-I love listening to <b>Music</b> but my <b>Assignments</b> won't allow me.<br>
-I love doing my <b>Assignments</b> but my <b>Spotify playlist</b> won't allow me.<br>
-Contact - <a href=mailto:chamithkalyan@gmail.com<>chamithkalyan@gmail.com</a><br>
+Hello, I’m @Chamith75 (GitHub didn't allow me to put it as <b>"Chamith Kalyan"</b>)<br>
+I’m busy <b>crafting tech</b> and constantly <b>learning new technologies</b>.<br>
+I love listening to <b>Music</b>, but my passion for <b>Coding</b> won't allow me.<br>
+I love <b>Coding</b>, but my <b>Spotify playlist</b> keeps calling me.<br>
+Contact - <a href="mailto:chamithkalyan@gmail.com">chamithkalyan@gmail.com</a><br>
 </p>
+
 
 <hr>
 <br>
