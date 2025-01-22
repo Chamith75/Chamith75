@@ -94,10 +94,18 @@ Contact - <a href="mailto:chamithkalyan@gmail.com">chamithkalyan@gmail.com</a><b
 
 ###
 
+
+
 # 📊 GitHub Stats:
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamith75&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/Chamith75/count.svg?"  />
+</div>
+
+###
 
 
 
