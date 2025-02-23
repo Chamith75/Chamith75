@@ -27,9 +27,7 @@
 <!--  <a href="https://medium.com/@mosagadu" target="blank">
   <img src="https://img.shields.io/badge/Medium-7F3FBF?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
  </a> -->
- <a href="https://www.instagram.com/chamithkalyan/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-7F3FBF?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a>
+ 
 </p>
 
 <p style="width=100%; font-family:titillium web" align="center">
